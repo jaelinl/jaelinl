@@ -4,7 +4,7 @@
 - 💞️ I have a passion for Cybersecurity
 - 📫 How to reach me jlazenberry.fellow@theknowledgehouse.org
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: My favorite thing to do is code
+- ⚡ Fun fact: My favorite thing to do is bash scripting
 
 <!---
 jaelinl/jaelinl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
