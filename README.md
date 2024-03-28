@@ -11,6 +11,8 @@
 ## About Me
 
 🔐 Cybersecurity Enthusiast | Entrepreneurial Mindset | Innovating for a Secure Future 🔐
+
+
 As a seasoned entrepreneur, I have honed my skills in identifying opportunities, building solutions, and navigating complex landscapes. With a passion for innovation and a relentless drive to make a difference, I am on a mission to leverage my entrepreneurial experience in shaping the future of cybersecurity. After navigating entrepreneurship, I now have a passion for channeling my skills into the realm of cybersecurity, where every challenge presents an opportunity to safeguard businesses and individuals from evolving digital threats.
 
 ## Skills
