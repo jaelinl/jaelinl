@@ -24,18 +24,13 @@ As a seasoned entrepreneur, I have honed my skills in identifying opportunities,
 ### Project 1: Cisco Packet Tracer - Networking Lab
 - Description: In this Networking Cisco Packet Tracer Lab, I mastered configuring various
 topologies using the CLI . Achieved the goal of dividing a single network into three different subnets. Used ping utility to demonstrate the connectivity check between three systems.
-- Technologies Used: [List of technologies used in the project]
+- Technologies Used: Cisco Packet Tracer
 - Link: [Link to the project repository or live demo]
 
 ### Project 2: Technical Summative - Ethical Hacking Lab
 - Description: I planned, designed, built, and properly configured a virtualized personal
 cybersecurity training and learning environment. My environment included an attack machine, firewall, IDPS, SIEM tool and a victim machine. I launched an attack from my Kali Linux machine (attacker) against a vulnerable, my firewall, and IDS/IPS alerted and sent logs to SIEM console dashboard
-- Technologies Used: [List of technologies used in the project]
-- Link: [Link to the project repository or live demo]
-
-### Project 3: [Project Name]
-- Description: [Brief description of the project]
-- Technologies Used: [List of technologies used in the project]
+- Technologies Used: Kali Linux, Wazuh, PfSense
 - Link: [Link to the project repository or live demo]
 
 ## Contact Me
